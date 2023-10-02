@@ -1,3 +1,3 @@
 # Website-Decrypter
 
-Decrypts the string that many encrypting websites use to encrypt html code.
+Decrypts the string of many html encryption websites.
