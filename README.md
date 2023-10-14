@@ -2,4 +2,4 @@
 
 Decrypts the string of many html encryption websites and saves it to a .txt
 
-(plz stop decrypting websites 👍)
+(for obfuscated code use chatgpt, pretty sure it can crack down on 3 or more methods)
